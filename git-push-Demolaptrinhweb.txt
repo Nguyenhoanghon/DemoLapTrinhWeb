@@ -1,0 +1,7 @@
+git init
+git config user.email nhhon@blu.edu.vn
+git config user.name NguyenHoangHon
+git remote add origin https://github.com/Nguyenhoanghon/DemoLapTrinhWeb.git
+git add .
+git commit -m "message"
+git push origin main
